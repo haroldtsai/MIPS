@@ -47,7 +47,7 @@ wire   [31:0] HADDR;
 reg     slave_go;
 
 initial begin
-$sdf_annotate("Pipe_CPU_1_43_CCU90_05V_wl20_g.sdf",top_design.topmain.cpu);
+$sdf_annotate("XXXXXX.sdf",top_design.topmain.cpu);
         clk_i = 1'b0;
         rst_n = 1'b0;  // 0329, JS Chen: change to synchronous posedge reset
         counter = -5;
