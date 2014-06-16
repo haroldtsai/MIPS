@@ -1,8 +1,8 @@
  DESIGN:<br/>
-   (1).MIPS CORE Implemention. 
-   (2).With 5 stage pipeline. 
-   (3).Hazard detction unit  
-   (4).Forwarding unit
+   (1).MIPS CORE Implemention. <br/>
+   (2).With 5 stage pipeline. <br/>
+   (3).Hazard detction unit.  <br/>
+   (4).Forwarding unit. <br/>
 
 INCLUDE INST:
 1. Arithmetic: ADD,ADDI,SUB,MULT,DIV,MFHI,MFLO 
