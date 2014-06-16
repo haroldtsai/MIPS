@@ -1,4 +1,4 @@
- #DESIGN:#
+ <h1>DESIGN:</h1><br/>
  ==========================================================<br/>
    (1).MIPS CORE Implemention. <br/>
    (2).With 5 stage pipeline. <br/>
