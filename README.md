@@ -15,23 +15,30 @@
  	DIV,<br/>
  	MFHI,<br/>
  	MFLO <br/>
-2. Data transfer:LUI,LW,SW,LHU,SH,LBU,SB 
-	3. Logic: 
-		AND,
-		OR, 
-		ORI, 
-		SRL, 
-		SRLV
-	4. Jump & Compare: 
-		BEQ
-		BGT,
-		BNEZ,
-		BGEZ,
-		LUI 
-		jump, 
-		jal, 
-		jr 
-	5. ETC:
-		SLT,
-		multiple load store: up to 21 addr in one inst
+ 2. Data transfer:
+ 	LUI,<br/>
+	LW,<br/>
+	SW,<br/>
+	LHU,<br/>
+	SH,<br/>
+	LBU,<br/>
+	SB<br/>
+ 3. Logic:<br/> 
+	AND,<br/>
+	OR,<br/> 
+	ORI,<br/> 
+	SRL,<br/> 
+	SRLV<br/>
+ 4. Jump & Compare:<br/>
+	BEQ,<br/>
+	BGT,<br/>
+	BNEZ,<br/>
+	BGEZ,<br/>
+	LUI,<br/> 
+	jump,<br/> 
+	jal,<br/> 
+	jr<br/> 
+ 5. ETC:<br/>
+	SLT,<br/>
+	multiple load store: up to 21 addr in one inst<br/>
 		
