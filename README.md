@@ -1,14 +1,14 @@
- <h2>DESIGN:</h2><br/>
+ DESIGN:<br/>
  ==========================================================<br/>
    (1).MIPS CORE Implemention. <br/>
    (2).With 5 stage pipeline. <br/>
    (3).Hazard detction unit.  <br/>
    (4).Forwarding unit. <br/>
 
- <h2>INCLUDE INST:</h2><br/>
+ INCLUDE INST:<br/>
  ==========================================================<br/>
- <h3>1. Arithmetic:</h3><br/> 
- 	ADD,<br/>
+ 1. Arithmetic:<br/> 
+        ADD,<br/>
  	ADDI,<br/>
  	SUB,<br/>
  	MULT,<br/>
