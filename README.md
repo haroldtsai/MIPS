@@ -1,4 +1,4 @@
- DESIGN:
+ DESIGN:<br/>
    (1).MIPS CORE Implemention. 
    (2).With 5 stage pipeline. 
    (3).Hazard detction unit  
